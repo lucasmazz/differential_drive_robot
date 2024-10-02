@@ -2,6 +2,8 @@
 
 This package provides a simple differential drive robot model designed for use in Gazebo Harmonic simulation with ROS 2 Jazzy Jalisco. 
 
+![differential_drive_robot](https://github.com/user-attachments/assets/85a0b166-be33-4844-9ed3-8ffa028069d8)
+
 ## Requirements
 
 To run this package, you'll need the following:
