@@ -19,8 +19,9 @@ Make sure to install the following ROS 2 Jazzy Jalisco packages:
 
 ```bash
 sudo apt install -y                         \
+    ros-jazzy-ros2-controllers              \
+    ros-jazzy-ros-gz                        \
     ros-jazzy-joint-state-publisher         \
-    ros-jazzy-joint-state-publisher-gui     \
     ros-jazzy-xacro                         \
     ros-jazzy-teleop-twist-keyboard         \
     ros-jazzy-teleop-twist-joy 
